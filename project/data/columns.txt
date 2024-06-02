@@ -1,0 +1,5 @@
+id:"ID of sample"
+name:"Sample Name"
+type:"Sample Type"
+nominal:"Analyte Concentration (ng/mL)"
+measured:"Calculated Concentration (ng/mL)"

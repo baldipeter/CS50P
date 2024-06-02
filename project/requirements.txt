@@ -1,0 +1,6 @@
+pip install xlrd
+pip install pandas
+pip install openpyxl
+pip install xlsxwriter
+pip install pyarrow
+pip install matplotlib

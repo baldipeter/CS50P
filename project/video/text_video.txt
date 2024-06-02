@@ -1,0 +1,15 @@
+Hello! My name is Peter, and the title of my project is "Automatization of data handling for Toxicokinetic reports".
+
+My goal was to learn about pandas and numpy through automating a long and tedious part of my work.
+The analytical measurements produce raw data, that has to be processed into tables and diagrams that can be inserted into a report. Making this process faster and less prone to mistakes is the purpose of the program.
+
+The project consists of five modules: project, calibraton and quality control, between runs, concentrations, and formatting. The formatting module only contains formatting of the writer, and as such only the modules that write to Excel are connected to it.
+
+The main function pre-processes and collects the data on the Excel sheets into dataframes, then calls the other modules.
+The calibraton and QC module takes eight arguments. It writes the results to an Excel sheet, and marks the samples that failed to meet the acceptance criteria.
+The between runs module takes four arguments, and calculates the overall mean, accuracy, and precision of the QC samples.
+The concentration module also takes four arguments, and reshapes the columns into a pivot table. It calculates the mean accuracy and precision, while also draws the toxicokinetic curves.
+
+The functions of the project module are tested using mock data.
+
+Thank you for your kind attention, I'm Peter, and this was CS50's Introduction to Programming with Python
