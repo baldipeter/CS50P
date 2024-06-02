@@ -1,0 +1,4 @@
+day:Day 1, Day 28
+group:Gp1M, Gp1F, Gp2M, Gp2F, Gp3M, Gp3F
+animal:An 1001, An 1002, An 1003, An 1004, An 1005, An 1501, An 1502, An 1503, An 1504, An 1505, An 1506, An 2001, An 2002, An 2003, An 2004, An 2501, An 2502, An 2503, An 2504, An 3001, An 3002, An 3003, An 3004, An 3501, An 3502, An 3503, An 3504
+time:0h, 0.5h, 1h, 2h, 4h, 6h, 8h, 12h, 24h
